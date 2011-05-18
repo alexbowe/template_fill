@@ -1,0 +1,4 @@
+a $cat
+${foo(4)}
+\$test
+$octo
